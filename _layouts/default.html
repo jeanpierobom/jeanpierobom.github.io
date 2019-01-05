@@ -36,14 +36,11 @@
 
     <main id="content" class="main-content" role="main">
       {{ content }}
-
       {% for post in site.posts %}
-        <li>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-          </a>
+        <article>
+          {{ post.content }}
           - <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-        </li>
+        </article>
       {% endfor %}
       
       <footer class="site-footer">

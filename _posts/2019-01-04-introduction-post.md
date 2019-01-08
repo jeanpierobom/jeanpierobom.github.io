@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to the blog!"
+categories: [projecta]
 ---
 
 # Welcome to the blog!

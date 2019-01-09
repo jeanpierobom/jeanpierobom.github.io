@@ -24,7 +24,8 @@
   flex-direction: column;
   
   h1, h2 {
-    align-self: stretch;
+    align-self: center;
+    flex-grow: 1;
   }
   
   h1 {

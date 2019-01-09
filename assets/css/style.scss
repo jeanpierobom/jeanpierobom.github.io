@@ -23,6 +23,10 @@
   display: flex;
   flex-direction: row;
   
+  h1, h2 {
+    align-self: stretch;
+  }
+  
   h1 {
     background-color: lightblue;
   }

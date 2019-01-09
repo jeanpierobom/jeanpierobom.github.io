@@ -20,22 +20,20 @@
   height: 50vh;
   min-height: 300px;
   
-  display: flex;
-  flex-direction: column;
+  display:table;
   
   h1, h2 {
     align-self: center;
-    flex-grow: 1;
+    display:table-cell;
+    vertical-align:middle
   }
   
   h1 {
     background-color: lightblue;
-    vertical-align: text-bottom;
   }
 
   h2 {
     background-color: coral;
-    vertical-align: text-top;
   }
 
 }

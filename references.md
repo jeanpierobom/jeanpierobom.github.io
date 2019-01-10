@@ -7,7 +7,7 @@ layout: references
 <ul>
   <li>
     Background image used in the header of this website<br/>
-    Author: Rawpixel.com on Pexels<br/>
+    Author: Rawpixel.com<br/>
     <a href="https://www.pexels.com/photo/silver-macbook-beside-white-ceramic-mug-on-table-905873/" target="_blank" class="btn btn-secondary">Visit on Pexels.com</a>
   </li>
 

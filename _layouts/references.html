@@ -61,20 +61,6 @@
 
     <main id="content" class="main-content" role="main">
       {{ content }}
-      {% for category in site.categories %}
-        {% if category[0] == "project-a" %}
-          {% for post in category[1] %}
-            <div class="card">
-              <h5 class="card-header">{{ post.title }}</h5>
-              <div class="card-body">
-                {{ post.content }}
-                - <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>              
-                <a href="#" class="btn btn-primary">Go somewhere</a>
-              </div>
-            </div>      
-          {% endfor %}
-        {% endif %}      
-      {% endfor %}
       
       <footer class="site-footer">
         {% if site.github.is_project_page %}

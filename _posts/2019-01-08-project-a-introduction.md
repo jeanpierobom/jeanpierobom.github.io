@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction to Project A"
+title:  "Introduction"
 categories: [project-a]
 ---
 

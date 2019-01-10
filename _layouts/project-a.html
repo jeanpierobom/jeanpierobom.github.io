@@ -67,7 +67,7 @@
             <div class="card">
               <h5 class="card-header">{{ post.title }}</h5>
               <div class="card-body">
-                Posted on <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>              
+                <span class='time-tag'>Posted on <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time></span>              
                 {{ post.content }}
               </div>
             </div>      

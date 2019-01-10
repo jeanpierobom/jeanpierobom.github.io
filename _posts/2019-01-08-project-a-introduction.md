@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to Project A"
-categories: [projecta]
+categories: [project-a]
 ---
 
 # Project A

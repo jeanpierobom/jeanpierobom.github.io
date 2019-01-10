@@ -47,11 +47,12 @@
       
       {% for category in site.categories %}
         <h3>{{ category[0] }}</h3>
-        <ul>
-          {% for post in category[1] %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-          {% endfor %}
-        </ul>
+        {% for post in category[1] %}
+          <article>
+            {{ post.content }}
+            - <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+          </article>
+        {% endfor %}
       {% endfor %}
       
       <footer class="site-footer">

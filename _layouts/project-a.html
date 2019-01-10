@@ -44,12 +44,9 @@
             <div class="card">
               <h5 class="card-header">{{ post.title }}</h5>
               <div class="card-body">
-                <h5 class="card-title">Special title treatment</h5>
-                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                {{ post.content }}
+                - <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>              
                 <a href="#" class="btn btn-primary">Go somewhere</a>
-
-              {{ post.content }}
-              - <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>              
               </div>
             </div>      
           {% endfor %}

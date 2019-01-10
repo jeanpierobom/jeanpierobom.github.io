@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to the blog!"
-categories: [projecta]
+categories: [project-a]
 ---
 
 # Welcome to the blog!

@@ -1,5 +1,5 @@
 ---
-
+layout: references
 ---
 
 ## References

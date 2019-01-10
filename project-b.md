@@ -1,2 +1,6 @@
-## Welcome to Project B
+---
+layout: project-b
+---
 
+## Welcome to Project B
+END

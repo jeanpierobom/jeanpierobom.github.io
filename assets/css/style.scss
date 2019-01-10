@@ -27,10 +27,12 @@
   
   h1 {
     background-color: lightblue;
+    flex-grow: 1;
   }
 
   h2 {
     background-color: coral;
+    flex-grow: 1;
   }
 
 }

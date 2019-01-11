@@ -15,9 +15,13 @@ In more detail, the topics covered in this tutorial are:
 
 #### Motivation
 
-I have chosen this topic because I want to learn how to build hybrid mobile applications. Another reason is that React Native is quite in demand, since I have seen many job posts requiring candidates who have this skill.
+I have chosen this topic because I want to learn how to build hybrid mobile applications. Another reason is that React Native is quite in demand since I have seen many job posts requiring candidates who have this skill.
 
-Additionally, learning how to use the YouTube API will definitely be usefull for me in Project 2 class. 
+Additionally, learning how to use the YouTube API will definitely be useful for me in Project 2 class. 
+
+#### Tutorial
+
+In addition to this prototype, I am also going to write a tutorial to help beginners like me to start getting their hands dirty with React Native.
 
 #### Resources
 

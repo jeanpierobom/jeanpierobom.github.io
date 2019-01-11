@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Introduction to Project B"
+title:  "Project B - Proposal"
 categories: [project-b]
 ---
 
 # Project B
 
-Here it comes the description of Project B...
+The Project B proposal will be posted soon. 

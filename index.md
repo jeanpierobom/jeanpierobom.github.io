@@ -1,13 +1,13 @@
 ## Welcome to my blog
 
-I project-a.mdam currently working on two projects. You can click on the links below to check my posts about these projects.
+I am currently working on two projects.
 
 ### Project A
-React Native
-Project: YouTube Replica
+Technology: React Native<br>
+Project: YouTube Replica<br>
 Check the progress [here](project-a.md).
 
 ### Project B
-Unity 5
-Project: 2D Platform Runner Game
+Technology: Unity 5<br>
+Project: 2D Platform Runner Game<br>
 Check the progress [here](project-b.md).

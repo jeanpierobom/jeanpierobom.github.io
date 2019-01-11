@@ -4,7 +4,11 @@ title:  "Project A - Proposal"
 categories: [project-a]
 ---
 
-In Project A, I will study React Native.
+The topic I have chosen for Project A is React Native. In this project, I will build a small mobile app that is a YouTube Replica, based on an amazing tutorial created by Marlon Decosta.
+
+In addition to React Native, there also more topics that are covered in this tutorial:
+- 
+
 
 #### Motivation
 

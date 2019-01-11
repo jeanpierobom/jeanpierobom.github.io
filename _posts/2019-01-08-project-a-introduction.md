@@ -29,6 +29,6 @@ The most important learning outcome for me is that I will be able to start more 
 
 #### Resources
 
-Tutorial: React Native YouTube Replica
-Author: Marlon Decosta
+Tutorial: React Native YouTube Replica<br>
+Author: Marlon Decosta<br>
 https://medium.com/react-native-training/react-native-youtube-replica-f378200d91f0

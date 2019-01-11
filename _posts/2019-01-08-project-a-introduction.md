@@ -19,10 +19,16 @@ I have chosen this topic because I want to learn how to build hybrid mobile appl
 
 Additionally, learning how to use the YouTube API will definitely be useful for me in Project 2 class. 
 
-#### Tutorial
+#### Deliverables
+
+There will be weekly updates about the progress of my work with the prototype on this blog. Moreover, the source code will be available on Github.
 
 In addition to this prototype, I am also going to write a tutorial to help beginners like me to start getting their hands dirty with React Native.
 
+The most important learning outcome for me is that I will be able to start more React Native applications from scratch in the future. 
+
 #### Resources
 
+Tutorial: React Native YouTube Replica
+Author: Marlon Decosta
 https://medium.com/react-native-training/react-native-youtube-replica-f378200d91f0

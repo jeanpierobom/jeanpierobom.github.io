@@ -21,7 +21,7 @@ Additionally, learning how to use the YouTube API will definitely be useful for 
 
 #### Deliverables
 
-There will be weekly updates about the progress of my work with the prototype on this blog. Moreover, the source code will be available on Github.
+There will be weekly updates about the progress of my work on this blog. Moreover, the source code will be available on Github.
 
 In addition to this prototype, I am also going to write a tutorial to help beginners like me to start getting their hands dirty with React Native.
 

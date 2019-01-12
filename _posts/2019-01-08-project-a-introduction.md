@@ -25,8 +25,6 @@ There will be weekly updates about the progress of my work on this blog. Moreove
 
 In addition to this prototype, I am also going to write a tutorial to help beginners like me to start getting their hands dirty with React Native.
 
-The most important learning outcome for me is that I will be able to start more React Native applications from scratch in the future. 
-
 #### Resources
 
 Tutorial: React Native YouTube Replica<br>

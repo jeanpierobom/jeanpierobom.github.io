@@ -2,4 +2,4 @@
 layout: project-a
 ---
 
-## Welcome to Project A
+## Welcome to Project A: YouTube Replica with React Native

@@ -27,3 +27,9 @@ The game that I will build in Project B is scalable, according to Jesse Freeman.
 There will be weekly updates about the progress of my work on this blog. Moreover, the source code will be available on Github.
 
 Moreover, I will present this game to the class on March 8th.
+
+#### Resources
+
+Course: Unity 5: 2D Essential Training<br>
+Author: Jesse Freeman<br>
+https://www.lynda.com/Games-tutorials/Unity-5-2D-Essential-Training/494386-2.html

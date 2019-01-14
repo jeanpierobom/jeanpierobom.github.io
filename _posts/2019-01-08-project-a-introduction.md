@@ -29,4 +29,4 @@ In addition to this prototype, I am also going to write a tutorial to help begin
 
 Tutorial: React Native YouTube Replica<br>
 Author: Marlon Decosta<br>
-https://medium.com/react-native-training/react-native-youtube-replica-f378200d91f0
+[https://medium.com/react-native-training/react-native-youtube-replica-f378200d91f0](https://medium.com/react-native-training/react-native-youtube-replica-f378200d91f0)

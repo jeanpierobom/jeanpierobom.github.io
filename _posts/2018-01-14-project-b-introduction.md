@@ -14,7 +14,7 @@ During this project I will learn how to:
 * Create an animated character
 * Spawn obstacles on the game scene
 * Build basic UI in Unity
-* Code scripts in C# to develop the game logic
+* Code C# scripts to develop the game logic
 
 #### Motivation
 

@@ -32,4 +32,4 @@ Moreover, I will present this game to the class on March 8th.
 
 Course: Unity 5: 2D Essential Training<br>
 Author: Jesse Freeman<br>
-https://www.lynda.com/Games-tutorials/Unity-5-2D-Essential-Training/494386-2.html
+[https://www.lynda.com/Games-tutorials/Unity-5-2D-Essential-Training/494386-2.html](https://www.lynda.com/Games-tutorials/Unity-5-2D-Essential-Training/494386-2.html)

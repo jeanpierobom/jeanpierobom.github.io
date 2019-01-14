@@ -24,7 +24,7 @@ The game that I will build in Project B is scalable, according to Jesse Freeman.
 
 #### Deliverables
 
-There will be weekly updates about the progress of my work on this blog. Moreover, the source code will be available on Github.
+On this blog, I will post weekly updates about the progress of my work and the source code will be available on Github.
 
 Moreover, I will present this game to the class on March 8th.
 

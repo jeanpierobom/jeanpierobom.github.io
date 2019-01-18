@@ -21,10 +21,7 @@ Additionally, learning how to use the YouTube API will definitely be useful for 
 
 #### Prototype Features
 
-This prototype is a small replica of YouTube and includes the following features: 
-
-* Videos list: it retrieves a list of latest videos from a YouTube channel that is configured hard coded. Since this is a limited replica, the user can't change the channel or search for more videos.
-* Video player: the user can watch a video by clicking on a thumbnail in the videos list.
+The result of this project is expected to be a minimal version of the YouTube app. Instead of allowing the user to navigate and search for an immense range of videos, it will retrieve videos from a single YouTube channel and display them in the initial screen. The user can't change the channel, since it is configured hard coded. Given this list of videos, the user can click on the thumbnail of the video and a new screen with a YouTube player will be opened.
 
 #### Deliverables
 

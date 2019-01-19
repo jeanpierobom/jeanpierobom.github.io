@@ -10,11 +10,12 @@ In the last few days, I have completed the following chapters in the course:
 * Chapter 2 - Creating Repeating Textures
 * Chapter 3 - Creating Obstacles
 
-At this time, the textures for the scenario are set and they move with parallax scrolling. It means that the background texture moves slower than the foreground texture. It creates an interesting sensation of depth in the game. Also, there is a spawner object in the game, that creates random obstacles for the player to jump.
+At this time, the textures for the scenario are set and they move with parallax scrolling. It means that the background texture moves slower than the foreground texture. It creates an interesting sensation of depth in the game. Also, there is a spawner object in the game, that creates random obstacles for the player to jump. The sprite for the player was not included yet though.
+
+The following image illustrates how it will work:
 
 <img style="width: 50%" src="https://jeanpierobom.github.io/assets/images/gif-game-scene-extended.gif" alt="Game scene">
 
-The sprite for the player was not included yet though.
 
 #### Next Steps
 

@@ -26,4 +26,4 @@ I expect to complete the following chapters by the next week:
 
 #### Github
 
-There is a Github repository where the game code is stored: https://github.com/jeanpierobom/super-zombie-runner
+There is a Github repository where the game code is stored: [https://github.com/jeanpierobom/super-zombie-runner](https://github.com/jeanpierobom/super-zombie-runner)

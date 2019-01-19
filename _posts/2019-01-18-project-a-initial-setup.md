@@ -14,7 +14,10 @@ During this week I have been working to setup the basic structure of the project
 
 At this point, it is possible to run the app on the Android Emulator and the default screen for React Native projects is displayed:
 
-<img src="https://jeanpierobom.github.io/assets/images/screenshot-initial-setup.png" alt="Initial Setup">
+<figure>
+  <img src="https://jeanpierobom.github.io/assets/images/screenshot-initial-setup.png" alt="Initial Setup">
+  <figcaption>React Native default screen<figcaption>
+</figure>
 
 #### Next Steps
 

@@ -24,7 +24,7 @@ The game that I will build in Project B is scalable, according to Jesse Freeman.
 
 #### Gameplay
 
-The idea of the game is that the player controls a guy who is supposed to run away from some zombies, while jumping to avoid some obstacles.
+The idea of the game is that the player controls a guy who is supposed to run and jump to avoid obstacles like zombies and furniture.
 
 #### Deliverables
 

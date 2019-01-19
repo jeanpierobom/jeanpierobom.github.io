@@ -4,7 +4,7 @@ title: "Initial Setup"
 categories: [project-a]
 ---
 
-During this week I have been working to setup the basic structure of the project. I was able to complete the steps described below:
+During this week I have been working to setup the basic structure of the project. I was able to complete the steps listed below:
 
 * Installation of Android Studio and React Native
 * Generated the project folder by using the react-native command line tool
@@ -22,4 +22,4 @@ I expect to finish the tutorial by the next week.
 
 #### Github
 
-There is a Github repository where the game code is stored: https://github.com/jeanpierobom/youtube-replica
+There is a Github repository where the game code is stored: [https://github.com/jeanpierobom/youtube-replica](https://github.com/jeanpierobom/youtube-replica)

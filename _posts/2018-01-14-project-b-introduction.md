@@ -22,6 +22,10 @@ Learn how to develop video games is an old dream of mine. However, I have always
 
 The game that I will build in Project B is scalable, according to Jesse Freeman. It means that, after finishing this course, I will be able to change the artwork, develop more advanced mechanics, improve features, and come up with a new, unique game.
 
+#### Gameplay
+
+The idea of the game is that the player controls a guy who is supposed to run away from some zombies, while jumping to avoid some obstacles.
+
 #### Deliverables
 
 On this blog, I will post weekly updates about the progress of my work and the source code will be available on Github.

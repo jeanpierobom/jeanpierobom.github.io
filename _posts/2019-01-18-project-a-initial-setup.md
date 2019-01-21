@@ -22,4 +22,4 @@ Because this tutorial is not very long, I expect to finish it by the next week.
 
 #### Github
 
-There is a Github repository where the game code is stored: [https://github.com/jeanpierobom/youtube-replica](https://github.com/jeanpierobom/youtube-replica)
+There is a Github repository where the app code is stored: [https://github.com/jeanpierobom/youtube-replica](https://github.com/jeanpierobom/youtube-replica)

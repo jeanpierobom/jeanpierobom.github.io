@@ -18,11 +18,11 @@ At this time, the prototype is completed and below there are some screenshots fr
 
 Initial screen:
 
-<img src="https://jeanpierobom.github.io/assets/images/screenshot-initial-screen.png" alt="Initial Screen">
+<img src="https://jeanpierobom.github.io/assets/images/screenshot-initial-screen.PNG" alt="Initial Screen">
 
 YouTube video player screen:
 
-<img src="https://jeanpierobom.github.io/assets/images/screenshot-video-player-screen.png" alt="YouTube Video Player">
+<img src="https://jeanpierobom.github.io/assets/images/screenshot-video-player-screen.PNG" alt="YouTube Video Player">
 
 #### Github
 

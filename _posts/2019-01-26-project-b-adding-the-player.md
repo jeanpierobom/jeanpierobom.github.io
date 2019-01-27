@@ -9,7 +9,7 @@ I have completed 2 more chapters in the course during this week:
 * Chapter 4 - Object Pooling
 * Chapter 5 - Creating the Player
 
-At this point, the player character was included in the game. This players responds to user interaction by jumping. As mentioned before, the objective is for the player to avoid all obstacles:
+At this point, the player character was included in the game. This player responds to user interaction by jumping. As mentioned before, the objective is for the player to avoid all obstacles:
 
 <img src="https://jeanpierobom.github.io/assets/images/gif-game-scene-2.gif" alt="Game with the player">
 

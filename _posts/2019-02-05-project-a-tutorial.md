@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Project A - Tutorial"

@@ -60,16 +60,16 @@ In the next step we will create the project folder by typing:
 react-native init vimeo_react_native
 ```
 
-At this point, it is possible to run the project on the emulator.
+The command ```react-native init``` initializes the folder with some preexisting code. At this point, it is possible to run the project on the emulator. make sure that your emulator is running and type the following commands on the terminal:
 
 ```
 cd vimeo_react_native/
 react-native run-android
 ```
 
-<img style="width: 50%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-4.PNG" alt="Android Emulator">
+The app will be executed on the emulator and hopefully you will see the following screen:  
 
-The command react-native init initializes the folder with some preexisting code.
+<img style="width: 50%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-4.PNG" alt="Android Emulator">
 
 #### Project Setup
 

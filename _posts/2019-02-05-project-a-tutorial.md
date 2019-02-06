@@ -32,7 +32,7 @@ React Native can be used to create apps for IOS and Android. For the purpose of 
 
 The latest version of Android Studio can be downloaded here: https://developer.android.com/studio/. After installing Android Studio, we can open the AVD Manager on Tools / AVD Manager to install a virtual device.
 
-<img style="width: 50%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-3.PNG" alt="AVD Manager">
+<img style="width: 100%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-3.PNG" alt="AVD Manager">
 
 After that, we can run the Android emulator. More detailed information about this can be found in the original tutorial.
  

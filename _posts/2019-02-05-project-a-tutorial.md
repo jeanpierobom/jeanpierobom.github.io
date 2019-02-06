@@ -24,7 +24,7 @@ After registering the app, we are able to generate an access token that will be 
 
 <img style="width: 100%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-2.PNG" alt="Generate Access Token">
 
-After the access token is created, take note of the following information from the app details page:
+After filling the form and clicking on the "Generate" button, the access token will be displayed. Take note of the following information from the app details page:
 -	Client ID
 -	Client Secret
 -	Access Token

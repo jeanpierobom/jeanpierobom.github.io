@@ -240,11 +240,11 @@ const styles = StyleSheet.create({
 export default App;
 ```
 
+When you are adding the code to the App.js file, make sure to replace the information for the variables clientId, clientSecret and accessToken.
+
 In the ```componentDidMount``` method, we are using the Vimeo credentials to connect with the API and to retrieve a list of videos from a channel called  [Staff Picks](https://vimeo.com/channels/staffpicks). The ```render``` method is responsible for creating the interface and displaying a thumbnail and title for each video.
 
-When the user clicks on a thumbnail, the respective video is opened on the default web browser on the user device. One improvement could be to add the Vimeo player for the video to be opened directly in the app.
-
-When you are adding the code to the App.js file, remember to replace the information for the variables clientId, clientSecret and accessToken.
+When the user clicks on a thumbnail, the respective video is opened on the default web browser on the user device. One future improvement could be to add the Vimeo player for the video to be played directly in the app.
 
 Finally, let’s create an "image" folder and place the Vimeo icon file.
 
@@ -254,12 +254,12 @@ You can download this image file [here](https://jeanpierobom.github.io/assets/im
 
 #### Final Product
 
-This image illustrates how to app look like after finishing this tutorial.
+This image illustrates how the app looks like after finishing this tutorial.
 
 <img style="width: 50%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-5.PNG" alt="Final Product">
 
-
 #### Github
+
 You can download all code for this project in the Github repository: [https://github.com/jeanpierobom/vimeo_react_native](https://github.com/jeanpierobom/vimeo_react_native)
 
 #### Resources

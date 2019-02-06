@@ -248,7 +248,7 @@ When the user clicks on a thumbnail, the respective video is opened on the defau
 
 Finally, let’s create an "image" folder and place the Vimeo icon file.
 
-<img style="width: 100px" src="https://jeanpierobom.github.io/assets/images/vimeo.png" alt="Vimeo Logo">
+<img style="width: 70px" src="https://jeanpierobom.github.io/assets/images/vimeo.png" alt="Vimeo Logo">
 
 You can download this image file [here](https://jeanpierobom.github.io/assets/images/vimeo.png).
 

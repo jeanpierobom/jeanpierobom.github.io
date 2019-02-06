@@ -248,7 +248,10 @@ This image illustrates how to app look like after finishing this tutorial.
 <img style="width: 50%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-5.PNG" alt="Final Product">
 
 In order to make this tutorial as simple as possible, when the user clicks on a video thumbnail, the video is opened on the default web browser. On improvement could be to add the Vimeo player for the video to be opened directly in the app.
- 
+
+#### Github
+You can download all code for this project in the Github repository: [https://github.com/jeanpierobom/vimeo_react_native](https://github.com/jeanpierobom/vimeo_react_native)
+
 #### Resources
 
 Tutorial: React Native YouTube Replica<br>

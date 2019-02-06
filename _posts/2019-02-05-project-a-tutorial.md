@@ -10,7 +10,7 @@ In Project A, I developed a small app based on a [tutorial](https://medium.com/r
 
 Inspired by this project, I am now providing another tutorial to create a similar app with React Native. Instead of using YouTube, we are going to develop an app that will communicate with Vimeo, another popular platform for video sharing.
 
-#### Create a Vimeo Account and Register an App
+#### Creating a Vimeo Account and Register an App
 
 The first step in this tutorial is to create an account on [Vimeo](https://vimeo.com/). This is necessary for getting the credentials needed in order to interact with the API. Vimeo has different types of plans, but the free subscription is fine for this project. 
 After creating an account, the next step is to register an app on [Vimeo Developer page](https://developer.vimeo.com/apps).
@@ -30,7 +30,7 @@ After filling the form and clicking on the "Generate" button, the access token w
 
 This information will be used later when connecting our app with the Vimeo API.
 
-#### Install Android Studio
+#### Installing Android Studio
 
 React Native can be used to create apps for IOS and Android. For the purpose of this tutorial, I am going to focus on the Android Platform. That being said, the next step is to install Android Studio in order to use its Android emulator.
 
@@ -40,11 +40,13 @@ The latest version of Android Studio can be downloaded on [https://developer.and
 
 After that, we can run the Android emulator. More detailed information about this process can be found in the [original tutorial](https://medium.com/react-native-training/react-native-youtube-replica-f378200d91f0).
  
-#### Install NodeJS
+#### Installing NodeJS
 
-The next step in this tutorial is to install NodeJS. The Node JS installer can be downloaded on https://nodejs.org/. When installing NodeJS, a package manager called NPM is also installed.
+The next step in this tutorial is to install NodeJS. When installing NodeJS, a package manager called npm is also installed on your computer. We are going to use npm on the next sections of this tutorial.
 
-#### Install React Native
+The Node JS installer can be downloaded on [https://nodejs.org/](https://nodejs.org/)
+
+#### Installing React Native
 
 From now we will use the command line. Open your favorite terminal and type the following command to install React Native:
 

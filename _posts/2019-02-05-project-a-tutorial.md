@@ -240,7 +240,7 @@ const styles = StyleSheet.create({
 export default App;
 ```
 
-In the ```componentDidMount``` method, we are using the Vimeo credentials to connect with the API and to retrieve a list of videos from a channel called  Staff Picks. The ```render``` method is responsible for creating the interface and displaying a thumbnail and title for each video.
+In the ```componentDidMount``` method, we are using the Vimeo credentials to connect with the API and to retrieve a list of videos from a channel called  [Staff Picks](https://vimeo.com/channels/staffpicks). The ```render``` method is responsible for creating the interface and displaying a thumbnail and title for each video.
 
 When the user clicks on a thumbnail, the respective video is opened on the default web browser on the user device. One improvement could be to add the Vimeo player for the video to be opened directly in the app.
 

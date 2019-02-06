@@ -233,16 +233,22 @@ const styles = StyleSheet.create({
 export default App;
 ```
 
+When you are adding the code to the App.js file, remember to replace the information for the variables clientId, clientSecret and accessToken.
+
 Finally, let’s create an "image" folder and place the Vimeo icon file.
 
 <img style="width: 100px" src="https://jeanpierobom.github.io/assets/images/vimeo.png" alt="Vimeo Logo">
 
-You can download file [here](https://jeanpierobom.github.io/assets/images/vimeo.png).
+You can download this image file [here](https://jeanpierobom.github.io/assets/images/vimeo.png).
 
 #### Final Product
 
+This images illustrates how to app look like after finishing this tutorial.
+
 <img style="width: 50%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-5.PNG" alt="Final Product">
 
+In order to make this tutorial as simple as possible, when the user clicks on a video thumbnail, the video is opened on the default web browser. On improvement could be to add the Vimeo player for the video to be opened directly in the app.
+ 
 #### Resources
 
 Tutorial: React Native YouTube Replica<br>

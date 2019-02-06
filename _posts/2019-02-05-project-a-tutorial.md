@@ -15,6 +15,8 @@ Inspired by this project, I am now providing another tutorial to create a simila
 The first step in this tutorial is to create an account on [Vimeo](https://vimeo.com/). The free subscription is fine for this project. 
 After creating an account, the next step is to register an app on [Vimeo Developer page](https://developer.vimeo.com/apps).
 
+The following image illustrates the form for registering the app:
+
 <img style="width: 100%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-1.PNG" alt="Register an APP on Vimeo">
 
 After registering the app, we are able to generate an access token that will be used when communicating with the API.

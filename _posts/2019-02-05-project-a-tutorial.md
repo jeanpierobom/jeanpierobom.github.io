@@ -84,7 +84,7 @@ npm i react-native-level-fs
 npm i asyncstorage-down
 ```
 
-There are a few packages required in this project that are available in NodeJS, but are not automatically available in React Native. In order to solve this problem, let's create a file named rn-cli.config.js on the project folder. Use your favorite editor and add the following code to this file:
+There are a few packages required in this project that are available in NodeJS, but are not automatically available in React Native. In order to solve this problem, let's create a file named rn-cli.config.js on the project folder. Use your favorite editor and add the following content to this file:
 
 ```
 module.exports = {
@@ -100,7 +100,7 @@ module.exports = {
 };
 ```
 
-The code in this file creates an alias for each module needed by the vimeo package. For example, when the http package is required, the stream-http module that comes in the node-libs-react-native will be used.
+This code creates an alias for each module needed by the vimeo package. For example, when the http package is required, the stream-http module that comes in the node-libs-react-native will be used.
 
 Next, open the index.js file and write the following line at the beginning of the file. 
 

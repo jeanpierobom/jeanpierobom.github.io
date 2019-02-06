@@ -108,7 +108,7 @@ Next, open the index.js file and write the following line at the beginning of th
 require('node-libs-react-native/globals');
 ```
 
-Now we are going to add the source code to App.js, that is the main component in this project:
+Now we are going to add the source code to App.js, that is the main component in this project. This file was automatically created when we generated the project folder with the ```react-native init``` command. 
 
 ```
 /**

@@ -6,7 +6,14 @@ categories: [project-a]
 
 THIS IS YET A DRAFT (work in progress)
 
-The topic I have chosen for Project A is React Native. In this project, I will build a small mobile app that is a YouTube Replica, based on an [amazing tutorial](https://medium.com/react-native-training/react-native-youtube-replica-f378200d91f0) created by Marlon Decosta.
+In Project A, I developed a small app based on a [tutorial](https://medium.com/react-native-training/react-native-youtube-replica-f378200d91f0) created by Marlon Decosta. This app is a YouTube replica and was developed using React Native.
+
+Inspired on this project, I am now providing another tutorial to create a similar app with same technology. This time, we are going to develop an app that will communicate with Vimeo, another popular platform for video sharing.
+
+#### Create a Vimeo Account and Register an APP
+
+The first step in this tutorial is to create an account on Vimeo (https://vimeo.com/). The free subscription is fine for this project. After creating an account, the required next step is to register an app on Vimeo Developer page: https://developer.vimeo.com/apps
+
 
 #### Resources
 

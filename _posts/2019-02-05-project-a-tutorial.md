@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project A - Tutorial"
+title:  "Project A - Tutorial for a Small React Native App"
 categories: [project-a]
 ---
 
@@ -10,7 +10,7 @@ In Project A, I developed a small app based on a [tutorial](https://medium.com/r
 
 Inspired by this project, I am now providing another tutorial to create a similar app with the same technology. This time, we are going to develop an app that will communicate with Vimeo, another popular platform for video sharing.
 
-#### Create a Vimeo Account and Register an APP
+#### Create a Vimeo Account and Register an App
 
 The first step in this tutorial is to create an account on [Vimeo](https://vimeo.com/). The free subscription is fine for this project. 
 After creating an account, the next step is to register an app on [Vimeo Developer page](https://developer.vimeo.com/apps).

@@ -78,7 +78,7 @@ In this section, we are going to add more packages to our project and write some
 First of all, let’s install some packages using npm:
 
 ```
-npm install vimeo
+npm i vimeo
 npm i node-libs-react-native
 npm i react-native-level-fs
 npm i asyncstorage-down

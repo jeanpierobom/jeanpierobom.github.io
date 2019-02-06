@@ -84,7 +84,7 @@ npm i react-native-level-fs
 npm i asyncstorage-down
 ```
 
-There are a few packages required in this project that are available in NodeJS, but are not automatically available in React Native. In order to solve this problem, let's create a file called rn-cli.config.js on the project folder. Use your favorite editor and add the following code to this file:
+There are a few packages required in this project that are available in NodeJS, but are not automatically available in React Native. In order to solve this problem, let's create a file named rn-cli.config.js on the project folder. Use your favorite editor and add the following code to this file:
 
 ```
 module.exports = {

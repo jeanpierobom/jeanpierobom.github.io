@@ -61,7 +61,7 @@ cd vimeo_react_native/
 react-native run-android
 ```
 
-<img style="width: 100%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-4.PNG" alt="Android Emulator">
+<img style="width: 50%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-4.PNG" alt="Android Emulator">
 
 The command react-native init initializes the folder with some preexisting code.
 
@@ -235,7 +235,9 @@ export default App;
 
 Finally, let’s create an "image" folder and place the Vimeo icon file.
 
-<img style="width: 50%" src="https://jeanpierobom.github.io/assets/images/vimeo.png" alt="Vimeo Logo">
+<img style="width: 100px" src="https://jeanpierobom.github.io/assets/images/vimeo.png" alt="Vimeo Logo">
+
+You can download file [here](https://jeanpierobom.github.io/assets/images/vimeo.png).
 
 #### Final Product
 

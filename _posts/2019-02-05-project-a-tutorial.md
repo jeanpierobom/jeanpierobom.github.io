@@ -8,7 +8,7 @@ THIS IS YET A DRAFT (work in progress)
 
 In Project A, I developed a small app based on a [tutorial](https://medium.com/react-native-training/react-native-youtube-replica-f378200d91f0) created by Marlon Decosta. This app is a YouTube replica and was developed using React Native.
 
-Inspired on this project, I am now providing another tutorial to create a similar app with same technology. This time, we are going to develop an app that will communicate with Vimeo, another popular platform for video sharing.
+Inspired by this project, I am now providing another tutorial to create a similar app with the same technology. This time, we are going to develop an app that will communicate with Vimeo, another popular platform for video sharing.
 
 #### Create a Vimeo Account and Register an APP
 
@@ -54,7 +54,7 @@ In the next step we will create the project folder by typing:
 react-native init vimeo_react_native
 ```
 
-At this point it is possible to run the project on the emulator.
+At this point, it is possible to run the project on the emulator.
 
 ```
 cd vimeo_react_native/
@@ -67,7 +67,7 @@ The command react-native init initializes the folder with some preexisting code.
 
 #### Project Setup
 
-The command react-native init initializes the folder with some preexisting code. In this section we are going to add more packages to the project and write some code in Javascript.
+The command react-native init initializes the folder with some preexisting code. In this section, we are going to add more packages to the project and write some code in Javascript.
 
 Let’s install a few packages and write some code in Javascript.
 
@@ -243,7 +243,7 @@ You can download this image file [here](https://jeanpierobom.github.io/assets/im
 
 #### Final Product
 
-This images illustrates how to app look like after finishing this tutorial.
+This image illustrates how to app look like after finishing this tutorial.
 
 <img style="width: 50%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-5.PNG" alt="Final Product">
 

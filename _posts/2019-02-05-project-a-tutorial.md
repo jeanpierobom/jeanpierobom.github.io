@@ -108,7 +108,7 @@ Next, open the index.js file and write the following line at the beginning of th
 require('node-libs-react-native/globals');
 ```
 
-Now we are going to add the source code to App.js, that is the main component in this project. This file was automatically created when we generated the project folder with the ```react-native init``` command. 
+Now we are going to add the source code to App.js, that is the main component in this project and was automatically created when we generated the project folder with the ```react-native init``` command. So open this file in your editor and replace its content:
 
 ```
 /**
@@ -240,6 +240,10 @@ const styles = StyleSheet.create({
 export default App;
 ```
 
+In the ```componentDidMount``` method, we are using the Vimeo credentials in order to connect with the API and to retrieve a list of videos from a channel called  Staff Picks. The ```render``` method is responsible for creating the interface and displaying a thumbnail and title for each video.
+
+When the user clicks on a thumbnail, the respective video is opened on the default web browser on the user device. One improvement could be to add the Vimeo player for the video to be opened directly in the app.
+
 When you are adding the code to the App.js file, remember to replace the information for the variables clientId, clientSecret and accessToken.
 
 Finally, let’s create an "image" folder and place the Vimeo icon file.
@@ -254,7 +258,6 @@ This image illustrates how to app look like after finishing this tutorial.
 
 <img style="width: 50%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-5.PNG" alt="Final Product">
 
-In order to make this tutorial as simple as possible, when the user clicks on a video thumbnail, the video is opened on the default web browser. On improvement could be to add the Vimeo player for the video to be opened directly in the app.
 
 #### Github
 You can download all code for this project in the Github repository: [https://github.com/jeanpierobom/vimeo_react_native](https://github.com/jeanpierobom/vimeo_react_native)

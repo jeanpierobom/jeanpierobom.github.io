@@ -19,14 +19,16 @@ The following image illustrates the form for registering the app:
 
 <img style="width: 100%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-1.PNG" alt="Register an APP on Vimeo">
 
-After registering the app, we are able to generate an access token that will be used when communicating with the API.
+After registering the app, we are able to generate an access token that will be used when communicating with the API. In the app details page, select the option for generating an access token according to the image below:
 
 <img style="width: 100%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-2.PNG" alt="Generate Access Token">
 
-From the app details page, we will need to take note of the following information:
+After the access token is created, take note of the following information from the app details page:
 -	Client ID
 -	Client Secret
 -	Access Token
+
+This information will be used later when connecting our app with the Vimeo API.
 
 #### Install Android Studio
 

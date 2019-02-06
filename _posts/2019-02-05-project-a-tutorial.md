@@ -75,7 +75,7 @@ The app will be executed on the emulator and hopefully you will see the followin
 
 In this section, we are going to add more packages to our project and write some code in Javascript.
 
-First of all, let’s install a few packages using npm:
+First of all, let’s install some packages using npm:
 
 ```
 npm install vimeo

@@ -34,11 +34,11 @@ This information will be used later when connecting our app with the Vimeo API.
 
 React Native can be used to create apps for IOS and Android. For the purpose of this tutorial, I am going to focus on the Android Platform. That being said, the next step is to install Android Studio in order to use its Android emulator.
 
-The latest version of Android Studio can be downloaded here: https://developer.android.com/studio/. After installing Android Studio, we can open the AVD Manager on Tools / AVD Manager to install a virtual device.
+The latest version of Android Studio can be downloaded on [https://developer.android.com/studio/](https://developer.android.com/studio/). After installing Android Studio, we can open the AVD Manager on Tools / AVD Manager to install a virtual device.
 
 <img style="width: 100%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-3.PNG" alt="AVD Manager">
 
-After that, we can run the Android emulator. More detailed information about this can be found in the original tutorial.
+After that, we can run the Android emulator. More detailed information about this process can be found in the [original tutorial](https://medium.com/react-native-training/react-native-youtube-replica-f378200d91f0).
  
 #### Install NodeJS
 

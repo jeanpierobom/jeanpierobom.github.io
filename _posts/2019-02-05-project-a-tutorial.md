@@ -8,7 +8,7 @@ THIS IS YET A DRAFT (work in progress)
 
 In Project A, I developed a small app based on a [tutorial](https://medium.com/react-native-training/react-native-youtube-replica-f378200d91f0) created by Marlon Decosta. This app is a YouTube replica and was developed using React Native.
 
-Inspired by this project, I am now providing another tutorial to create a similar app with the same technology. This time, we are going to develop an app that will communicate with Vimeo, another popular platform for video sharing.
+Inspired by this project, I am now providing another tutorial to create a similar app with React Native. Instead of using YouTube, now we are going to develop an app that will communicate with Vimeo, another popular platform for video sharing.
 
 #### Create a Vimeo Account and Register an App
 

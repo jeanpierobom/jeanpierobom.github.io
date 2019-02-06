@@ -15,11 +15,11 @@ Inspired on this project, I am now providing another tutorial to create a simila
 The first step in this tutorial is to create an account on [Vimeo](https://vimeo.com/). The free subscription is fine for this project. 
 After creating an account, the next step is to register an app on [Vimeo Developer page](https://developer.vimeo.com/apps).
 
-<img style="width: 50%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-1.PNG" alt="Register an APP on Vimeo">
+<img style="width: 100%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-1.PNG" alt="Register an APP on Vimeo">
 
 After registering the app, we are able to generate an access token that will be used when communicating with the API.
 
-<img style="width: 50%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-2.PNG" alt="Generate Access Token">
+<img style="width: 100%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-2.PNG" alt="Generate Access Token">
 
 From the app details page, we will need to take note of the following information:
 -	Client ID
@@ -44,18 +44,24 @@ The next step in this tutorial is to install NodeJS. The Node JS installer can b
 
 From now we will use the command line. Open your favorite terminal and type the following command to install React Native:
 
+```
 npm install -g react-native-cli
+```
 
 In the next step we will create the project folder by typing:
 
+```
 react-native init vimeo_react_native
+```
 
 At this point it is possible to run the project on the emulator.
 
+```
 cd vimeo_react_native/
 react-native run-android
+```
 
-<img style="width: 50%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-4.PNG" alt="Android Emulator">
+<img style="width: 100%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-4.PNG" alt="Android Emulator">
 
 The command react-native init initializes the folder with some preexisting code.
 
@@ -65,11 +71,13 @@ The command react-native init initializes the folder with some preexisting code.
 
 Let’s install a few packages and write some code in Javascript.
 
+```
 npm install vimeo
 npm i node-libs-react-native
 npm i react-native-level-fs
 npm i asyncstorage-down
 npm i react-native-vector-icons
+```
 
 There are a few packages required in this project that are from NodeJS, but are not automatically available in React Native. In order to solve this problem, let's create a file called rn-cli.config.js on the root folder:
 
@@ -89,7 +97,9 @@ module.exports = {
 
 Next, write the following line at the beginning of the file index.js
 
+```
 require('node-libs-react-native/globals');
+```
 
 Now we are going to add the source code to App.js, that is the main source component in this project:
 
@@ -230,7 +240,6 @@ Finally, let’s create an "image" folder and place the Vimeo icon file.
 #### Final Product
 
 <img style="width: 50%" src="https://jeanpierobom.github.io/assets/images/project-a-tutorial-image-5.PNG" alt="Final Product">
-
 
 #### Resources
 

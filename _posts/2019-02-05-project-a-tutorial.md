@@ -73,16 +73,15 @@ The app will be executed on the emulator and hopefully you will see the followin
 
 #### Project Setup
 
-The command react-native init initializes the folder with some preexisting code. In this section, we are going to add more packages to the project and write some code in Javascript.
+In this section, we are going to add more packages to our project and write some code in Javascript.
 
-Let’s install a few packages and write some code in Javascript.
+First of all, let’s install a few packages using npm:
 
 ```
 npm install vimeo
 npm i node-libs-react-native
 npm i react-native-level-fs
 npm i asyncstorage-down
-npm i react-native-vector-icons
 ```
 
 There are a few packages required in this project that are from NodeJS, but are not automatically available in React Native. In order to solve this problem, let's create a file called rn-cli.config.js on the root folder:

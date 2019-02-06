@@ -86,7 +86,6 @@ npm i react-native-vector-icons
 There are a few packages required in this project that are from NodeJS, but are not automatically available in React Native. In order to solve this problem, let's create a file called rn-cli.config.js on the root folder:
 
 ```
-{{ "{% highlight javascript " }}%}
 module.exports = {
   resolver: {
     extraNodeModules: {
@@ -98,7 +97,6 @@ module.exports = {
     }
   }
 };
-{{ "{% endhighlight " }}%}
 ```
 
 Next, write the following line at the beginning of the file index.js

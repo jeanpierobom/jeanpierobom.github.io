@@ -73,6 +73,7 @@ npm i react-native-vector-icons
 
 There are a few packages required in this project that are from NodeJS, but are not automatically available in React Native. In order to solve this problem, let's create a file called rn-cli.config.js on the root folder:
 
+```
 module.exports = {
   resolver: {
     extraNodeModules: {
@@ -84,6 +85,7 @@ module.exports = {
     }
   }
 };
+```
 
 Next, write the following line at the beginning of the file index.js
 
@@ -91,6 +93,7 @@ require('node-libs-react-native/globals');
 
 Now we are going to add the source code to App.js, that is the main source component in this project:
 
+```
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
@@ -121,9 +124,9 @@ class App extends Component {
   }
 
   componentDidMount() {
-    const clientId = '616d3f72c92c1953e445c5d88784f529929e6b0a'
-    const clientSecret = 'VZkiLM0nrO7GC6Obf947yccJqWt3OfaI4MZ9Ii3FyXNVFO1cn4x8QWpjEVB6/MmgN74JiQan7dJd3AKvKMqUjjlbEIDlSkHxQB7un/1Zh/UZXN5VNNEHWwSJG7sg94kf'
-    const accessToken = 'adffbccd15b0faf190875f483f4f3a26'
+    const clientId = '<client id>'
+    const clientSecret = '<client secret>'
+    const accessToken = '<access token>'
     const channel = '/channels/staffpicks/videos';
     const fields = 'uri,name,link,description,duration,created_time,modified_time,pictures';
 
@@ -218,6 +221,7 @@ const styles = StyleSheet.create({
 });
 
 export default App;
+```
 
 Finally, let’s create an "image" folder and place the Vimeo icon file.
 

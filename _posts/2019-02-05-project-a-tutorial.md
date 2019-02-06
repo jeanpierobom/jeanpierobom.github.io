@@ -100,7 +100,7 @@ module.exports = {
 };
 ```
 
-This code creates an alias for each module needed by the vimeo package. For example, when the http module is required, the stream-http module that comes in the node-libs-react-native will be used.
+This code creates an alias for each module needed by the vimeo package. For example, when the http module is required, the stream-http module provided by the node-libs-react-native will be used.
 
 Next, open the index.js file and write the following line at the beginning of the file. 
 

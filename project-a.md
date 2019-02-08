@@ -2,4 +2,4 @@
 layout: project-a
 ---
 
-## Welcome to Project A: YouTube Replica
+## Welcome to Project A

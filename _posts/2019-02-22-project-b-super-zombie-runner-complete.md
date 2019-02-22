@@ -16,12 +16,11 @@ These chapters tought me how to program the game flow, including how to start th
 
 At this point, the course is completed and I have a functional version of the game. 
 
-https://github.com/jeanpierobom/jeanpierobom.github.io/blob/master/assets/images/screenshot-super-zombie-runner.PNG
+<img src="https://github.com/jeanpierobom/jeanpierobom.github.io/blob/master/assets/images/screenshot-super-zombie-runner.PNG" alt="Super Zombie Runner is Complete">
 
 #### Do You Want to Play?
 
-You can play the Super Zombie Runner on your browser in this website https://jeanpierobom.github.io/super-zombie-runner/
-Unity games requires the WebGL plugin on browsers, so you might be asked to confirm the installation of this plugin before proceeding.
+You can play the Super Zombie Runner [here](https://jeanpierobom.github.io/super-zombie-runner/). Unity games requires the WebGL plugin on browsers, so you might be asked to confirm the installation of this plugin before playing the game.
 
 #### Next Steps
 

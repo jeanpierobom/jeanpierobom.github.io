@@ -20,7 +20,7 @@ At this point, the course is completed and I have a functional version of the ga
 
 #### Do You Want to Play?
 
-You can play the Super Zombie Runner [here](https://jeanpierobom.github.io/super-zombie-runner/). Unity games requires the WebGL plugin on browsers, so you might be asked to confirm the installation of this plugin before playing the game.
+You can play the Super Zombie Runner [here](https://jeanpierobom.github.io/super-zombie-runner/). Unity games require the WebGL plugin on browsers, so you might be asked to confirm the installation of this plugin before playing the game.
 
 #### Next Steps
 

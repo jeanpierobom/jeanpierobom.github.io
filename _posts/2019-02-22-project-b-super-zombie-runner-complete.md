@@ -11,7 +11,7 @@ In the past few days I have completed the remaining chapters in the Unity 5 2D E
 * Chapter 8 - Creating More Obstacles
 * Chapter 9 - Publishing
 
-These chapters tought me how to code the game flow, including how to start the game, the game over conditions and also how to restart the game. Next, a score system was added by using UI components and the game manager that stores (locally) the best score of the player. Also, an illumination effect was applied to beautify the game stage. Additionaly, more obstacles were added, including an animated TV and the running zombie.
+These chapters taught me how to code the game flow, including how to start the game, the game over conditions and also how to restart the game. Next, a scoring system was added by using UI components and the game manager that stores (locally) the best score of the player. Also, an illumination effect was applied to beautify the game stage. Additionaly, more obstacles were added, including an animated TV and the running zombie.
 
 
 At this point, the course is completed and I have a functional version of the game. 

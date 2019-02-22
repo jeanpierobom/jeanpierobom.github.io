@@ -24,5 +24,5 @@ You can play the Super Zombie Runner [here](https://jeanpierobom.github.io/super
 
 #### Next Steps
 
-The instructor of the course mentioned that this game could be improved by students, in order to make it unique. in the next few days, I will try to create new artwork for the game, and maybe modify the gameplay a little bit. I also want to export and test the game in a mobile device.
+The instructor of the course mentioned that this game could be improved by students, in order to make it unique. I will try to create new artwork for the game before the presentation. I will also try to modify the gameplay a little bit. Finally, I will export the game to mobile devices.
 

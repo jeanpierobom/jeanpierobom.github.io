@@ -16,7 +16,7 @@ These chapters tought me how to program the game flow, including how to start th
 
 At this point, the course is completed and I have a functional version of the game. 
 
-<img src="https://jeanpierobom.github.io/assets/screenshot-super-zombie-runner.PNG" alt="Super Zombie Runner is Complete">
+<img src="https://jeanpierobom.github.io/assets/images/screenshot-super-zombie-runner.PNG" alt="Super Zombie Runner is Complete">
 
 #### Do You Want to Play?
 

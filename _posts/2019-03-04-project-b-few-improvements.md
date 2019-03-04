@@ -4,11 +4,11 @@ title:  "Developing a Few Improvements"
 categories: [project-b]
 ---
 
-After completing the game by following the course, I wanted to make some improvements to it on my own. First, I was planning to create different artwork for the game, but after some time trying to draw and animate a new hero, I changed my mind. This is a dog that I drew in Illustrator.
+After completing the game by following the course, I wanted to make some improvements to it on my own. First, I was planning to create different artwork for the game, but after some time trying to draw and animate a new hero, I changed my mind. This is a new hero that I drew in Illustrator.
 
 <img src="https://jeanpierobom.github.io/assets/images/dog-spritesheet.png" alt="Dog Sprite Sheet">
 
-In my opinion, drawing is not bad. However, the animation does not have smooth transitions between each frame. Another problem is that, when I imported the sprite sheet to Unity, it looked blurry. I consider studying more in the future on how to import and configure sprites in Unity.
+In my opinion, the dog drawing is not bad. However, the animation does not have smooth transitions between each frame. Another problem is that, when I imported the sprite sheet to Unity, it looked blurry. I consider studying more in the future on how to import and configure sprites in Unity.
 
 So, instead of working in artwork, I made a small improvement to the gameplay by adding a "double jump" feature. In the original version of the game, it was difficult to jump over an obstacle depending on where you landed from a previous jump. So I feel that adding the double jump could be a good way to solve. However, now I feel that the game is too easy...
 

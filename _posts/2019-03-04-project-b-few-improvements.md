@@ -15,8 +15,8 @@ So, instead of working in artwork, I made a small improvement to the gameplay by
 Next, I added some sound effects to the game. Navigating the Unity Asset Store, I found two free, great SFX packs. So I selected sound effects from these packs and added them to the following objects/events:
 
 - Player jump
-- Game Over
-- Best Score
+- Game over
+- Best score
 - TV static
 - Zombies
 

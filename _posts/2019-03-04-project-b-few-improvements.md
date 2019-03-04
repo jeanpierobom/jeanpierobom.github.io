@@ -4,7 +4,7 @@ title:  "Developing a Few Improvements"
 categories: [project-b]
 ---
 
-After completing the game by following the course, I wanted to make some improvements to it on my own. First, I was planning to create different artwork for the game, but after some time trying to draw and animate a new hero, I changed my mind. This is a new hero that I drew in Illustrator.
+After completing the game by following the course, I wanted to make some improvements to it on my own. First, I was planning to create different artwork for the game, but after some time trying to draw and animate a new hero, I changed my mind. This is a new hero that I drew in Illustrator:
 
 <img src="https://jeanpierobom.github.io/assets/images/dog-spritesheet.png" alt="Dog Sprite Sheet">
 

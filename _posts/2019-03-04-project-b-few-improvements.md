@@ -12,7 +12,7 @@ In my opinion, the dog drawing is not bad. However, the animation does not have 
 
 So, instead of working in artwork, I made a small improvement to the gameplay by adding a "double jump" feature. In the original version of the game, it was difficult to jump over an obstacle depending on where you landed from a previous jump. So I feel that adding the double jump could be a good way to solve it. However, now I feel that the game is too easy...
 
-Next, I added some sound effects to the game. Navigating on the Unity Asset Store, I found two free, great SFX packs. So I selected sounds effects from these packs and added them to the following objects/events:
+Next, I added some sound effects to the game. Navigating the Unity Asset Store, I found two free, great SFX packs. So I selected sound effects from these packs and added them to the following objects/events:
 
 - Player jump
 - Game Over

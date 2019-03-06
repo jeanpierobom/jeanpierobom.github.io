@@ -20,8 +20,8 @@ The game source folder is available on a GitHub repository. If you want to build
 
 - Download and install Unity on your computer. The installer can be downloaded from [https://unity3d.com/get-unity/download](https://unity3d.com/get-unity/download)
 - Download the project folder from GitHub: [https://github.com/jeanpierobom/super-zombie-runner](https://github.com/jeanpierobom/super-zombie-runner)
-- Open the project file in Unity
-- Play the game by pressing the play button on the Unity menu
+- Open the project folder in Unity
+- Play the game by pressing the play button
 - If you want to build the game for a specific platform (PC or HTML 5, for example), you can do this on "File / Build Settings..."
 
 #### Presentation

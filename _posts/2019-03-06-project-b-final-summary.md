@@ -26,4 +26,4 @@ The game sources are available on a GitHub repository: [https://github.com/jeanp
 
 #### Presentation
 
-This is the [presentation file](https://github.com/jeanpierobom/jeanpierobom.github.io/blob/master/assets/presentation.pdf) for Directed Studies class.
+Finally, this is the [presentation file](https://github.com/jeanpierobom/jeanpierobom.github.io/blob/master/assets/presentation.pdf) for Directed Studies class.
